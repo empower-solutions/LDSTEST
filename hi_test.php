@@ -1,4 +1,6 @@
-<?php echo 'hi';
+<?php 
+echo 'hi';
+echo "commit test";
+echo "line 3";
 
-echo 'commit test';
 ?>
