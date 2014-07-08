@@ -6,7 +6,7 @@ echo  '<h3>Here you see the changes as pushed on git:</h3>';
 echo '<br><br>';
 echo 'push: admin folder!';
 echo '<br>';
-echo 'push: new data added!';
+echo 'push: new test data added!';
 echo '<br>';
 
 ?>
